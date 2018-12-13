@@ -181,6 +181,13 @@ em{
 #footer a:hover{
 	color:#fff;
 }
+#paynav{
+	display:flex;
+	justify-content: flex-end;
+}
+#paynav img{
+	padding: 5px;
+}
 
 
 

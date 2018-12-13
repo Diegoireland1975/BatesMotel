@@ -103,6 +103,8 @@ h3{
 	font-size:30px;
 	color:red;
 	text-align:center;
+	padding:15px;
+	line-height: 60px;
 }
 .break{
 	font-size:28px;

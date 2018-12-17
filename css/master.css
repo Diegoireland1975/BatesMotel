@@ -183,6 +183,10 @@ em{
 #footer a:hover{
 	color:#fff;
 }
+#footer p{
+	color:white;
+	font-style:italic;
+}
 #paynav{
 	display:flex;
 	justify-content: flex-end;

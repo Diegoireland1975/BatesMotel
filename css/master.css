@@ -51,6 +51,9 @@ h1{
 #navbar li a:hover{
 	color:white;
 }
+#navbar i a {
+	padding-left:15px;
+}
 figcaption p{
 	font-size:20px;
 	line-height: 25px;
@@ -106,7 +109,6 @@ h3{
 .break{
 	font-size:28px;
 	line-height: 26px;
-  margin-left:10px;
 }
 span{
 	color:red;

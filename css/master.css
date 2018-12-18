@@ -202,9 +202,10 @@ em{
 		font-style:italic;
 		padding: 200px 0;
 	}
-.Fairfield{
+h1.Fairfield{
 	letter-spacing: 6px;
 	font-family:'Lato', 'sans-serif';
+	text-align:center;
 }
 
 

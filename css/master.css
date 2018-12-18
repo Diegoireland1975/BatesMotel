@@ -81,19 +81,15 @@ h3{
 	width: 100%;
 	background-image: url(../images/landscape.jpg);
 	background-size: cover;
-	
+}
+.aboutus div{
+	background:rgba(0, 0, 0, 0.7);
 }
 
 .aboutus p{
 	padding: 150px 0 150px;
 	text-align: left;
 	color: white;
-   transition: all 2s ease-out;
-}
-.aboutus div:hover{
-  background:rgba(0, 0, 0, 0.7);
-  transition: all 2s;
-
 }
 .aboutus img{
   padding-top: 50px;
@@ -130,14 +126,6 @@ span{
 	float:left;
 	width: 50%;
 	padding:20px;
-}
-.rooms img{
-	border:2px solid black;
-  transition: 2s ease-out;
-}
-.rooms img:hover{
-    background:rgba(0, 0, 0, 0.7);
-    transition: 2s;
 }
 .rooms p{
 		color:white;
@@ -195,6 +183,28 @@ em{
 	padding: 5px;
 	position:relative;
 	bottom:40px;
+}
+.aboutf{
+	background-image: url(../images/gallery/solano.jpg);
+	background-size:cover;	
+	}
+.aboutf div{
+	background:rgba(0, 0, 0, 0.7);
+}
+
+.aboutf p{
+		text-align: center;
+		color:white;
+		font-size: 18px;
+		font-family:'Lato', 'sans-serif';
+		letter-spacing: 1px;
+		line-height: 24px;
+		font-style:italic;
+		padding: 200px 0;
+	}
+.Fairfield{
+	letter-spacing: 6px;
+	font-family:'Lato', 'sans-serif';
 }
 
 

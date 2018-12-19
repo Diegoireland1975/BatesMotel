@@ -94,6 +94,7 @@ h3{
 	padding: 150px 0 150px;
 	text-align: left;
 	color: white;
+	font-style: italic;
 }
 .aboutus img{
   padding-top: 50px;
@@ -107,8 +108,10 @@ h3{
 	line-height: 40px;
 }
 .break{
-	font-size:28px;
+	font-size:24px;
 	line-height: 26px;
+	color:#fff;
+	font-style: italic;
 }
 span{
 	color:red;

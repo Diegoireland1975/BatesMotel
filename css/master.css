@@ -214,15 +214,35 @@ h1.Fairfield{
 	text-align:center;
 }
 
-
-
-
-@media only screen and (max-width : 700px)  {
+@media (max-width: 760px)  {
+#paynav img{
+	position:relative;
+	bottom:10px;
+}
+.prices h3{
+	font-size:20px;
+	color:white;
+	text-align:center;
+	padding:5px;
+	line-height: 40px;
+}
+h3{
+	font-size:18px;
+	color:white;
+}
 h1{
-
+	font-size:14px;
+}
+#navbar li{
+	display:block;
+	margin-right:45px;
+	font-size:16px;
+	padding:2px;
+	
+}
 }
 
-}
+
 
 
    

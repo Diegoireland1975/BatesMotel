@@ -181,6 +181,12 @@ em{
 	color:white;
 	font-style:italic;
 }
+#footer h2{
+	font-family: 'Lato', 'sans-serif';
+	font-style:italic;
+	margin-bottom: 10px;
+	font-size: 22px;
+}
 #paynav{
 	display:flex;
 	justify-content: flex-end;

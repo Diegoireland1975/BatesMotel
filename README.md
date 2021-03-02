@@ -7,4 +7,3 @@ The form to book the rooms is actually working.
 Was implemented with Jotform and I changed the layout and colors of it in CSS
 Technologies Used:
 Flexbox, Lightbox
-Link: https://bates-motel.netlify.app/
